@@ -1,0 +1,57 @@
+
+img{
+    height: 210px;
+    width: 280x;
+}
+
+.container{
+    align-items: center;
+    float: left;
+    text-align: center;
+    max-width: 1000px;
+    background-color: black;
+    background-image: url(./images/galaxy.jpeg);
+    backdrop-filter: blur(5px);
+    color: aliceblue;
+}
+
+.display1{
+    display: inline-block;
+    border: 2px solid;
+    border-color: aliceblue;
+    align-items: center;   
+    position: relative;
+    padding: 5px; 
+}
+
+.homeLink{
+    font-size: large;
+    justify-content: center;
+    padding-left: 150px;
+}
+.contactLink{
+    font-size: large;
+    
+    justify-content: center;
+    /*padding-left: 200px;
+    padding-right: 200px;*/
+}
+.galleryLink{
+    font-size: large;
+    justify-content: center;
+    padding-right: 150px;
+}
+.formStyle{
+    text-align: center;
+    font-size: x-large;
+    background-color: darkgray;
+    color: aliceblue;
+
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+}
+nav{
+    background-color: aquamarine;
+}
