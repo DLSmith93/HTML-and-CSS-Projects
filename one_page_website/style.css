@@ -5,14 +5,22 @@ img{
 }
 
 .container{
+    /*display: block;
     align-items: center;
-    float: left;
+    float: left;*/
     text-align: center;
     max-width: 1000px;
     background-color: black;
     background-image: url(./images/galaxy.jpeg);
     backdrop-filter: blur(5px);
     color: aliceblue;
+    border: 2px;
+    border-color: aliceblue;
+    border-radius: 20px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
 }
 
 .display1{
@@ -55,4 +63,10 @@ h1{
 }
 nav{
     background-color: aquamarine;
+}
+iframe{
+    width: 600px;
+    height: 450px;
+    display: block;
+    margin: auto;
 }
