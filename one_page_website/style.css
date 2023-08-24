@@ -19,6 +19,7 @@ img{
     display: inline-block;
     border: 2px solid;
     border-color: aliceblue;
+    border-radius: 20px;
     align-items: center;   
     position: relative;
     padding: 5px; 
