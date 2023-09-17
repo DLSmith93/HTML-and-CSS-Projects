@@ -83,7 +83,7 @@ td{
     display: flex;
   }
   
-  .column {
+.column {
     flex: 50%;
     width: 50%;
     height: 100px;
